@@ -1,0 +1,5 @@
+Autor: Piotr Plecinski
+
+Dokumentacja projektu "Mobilny vCard PL"
+
+Przejscie do strony z wyszukiwarka pracownikow Politechniki Lodzkiej nastepuje poprzez wpisanie adresu http://localhost:8080/api/browser. Uzyktownikowi ukaze sie pole typu input do wpisywania nazwy poszukiwanego pracownika. Po kliknieciu przycisku "Szukaj" znajdujacego sie po prawej stronie od wyszukiwarki nastapi przekierowanie do strony ze znalezionymi pracownikami wg podanego kryterium. Przycisk "Generuj vCard" uruchomi procedure pobierania pliku bedacego wizytowka danego pracownika.
